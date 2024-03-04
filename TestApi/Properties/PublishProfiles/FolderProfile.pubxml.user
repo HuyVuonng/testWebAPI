@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\admin\Desktop\New folder (4)</_PublishTargetUrl>
+    <History>True|2024-03-04T03:57:25.0734851Z;True|2024-02-27T16:10:34.4735794+07:00;True|2024-02-27T16:06:30.2182450+07:00;True|2024-02-27T11:19:38.5175783+07:00;True|2024-02-27T11:10:20.7731841+07:00;True|2024-02-27T10:51:34.2703596+07:00;True|2024-02-27T10:35:15.5984050+07:00;True|2024-02-27T10:09:54.3644673+07:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=DB_Back_End.mssql.somee.com%3bpacket size=4096%3buser id=Huyvuong_SQLLogin_1%3bpwd=x76x6zwr4y%3bdata source=DB_Back_End.mssql.somee.com%3bpersist security info=False%3binitial catalog=DB_Back_End%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
